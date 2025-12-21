@@ -1,0 +1,9 @@
+{  
+    "courseCode": "CSE-2323",
+    "courseTitle": "digital logic degine",
+    "courseCredit": 3.0,
+    "courseType": "Theory",
+    "semesterOffered": "Fourth",
+    "deptName": "EEE",
+    "instructor": "Raihan Sir"
+ }
